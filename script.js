@@ -3,7 +3,7 @@ let days = ["SUNDAY", "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "S
 
 let hours = document.getElementById("hrs")
 let minutes = document.getElementById("mins")
-let second = document.getElementById("sec")
+let second = document.getElementById("seconds")
 let date = document.getElementById("dat")
 let month = document.getElementById("mon")
 let day = document.getElementById("day")
