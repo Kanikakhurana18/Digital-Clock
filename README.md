@@ -1,4 +1,5 @@
 # Digital Clock 🕒
+
 A responsive digital clock website built using **HTML, CSS, and JavaScript**. The clock displays the current time, date, month, year, day, AM/PM, and seconds in a clean glass-style interface.
 
 ## 🔗 Links
@@ -6,7 +7,11 @@ A responsive digital clock website built using **HTML, CSS, and JavaScript**. Th
 - **GitHub Repository:** [Digital Clock](https://github.com/Kanikakhurana18/Digital-Clock)
 - **Live Demo:** [View Live Website](https://Kanikakhurana18.github.io/Digital-Clock/)
 
-## Features
+## 📸 Screenshot
+
+![Digital Clock Screenshot](Screenshot.png)
+
+## ✨ Features
 
 - Displays current time in real time
 - Shows hours, minutes, and seconds
@@ -18,14 +23,14 @@ A responsive digital clock website built using **HTML, CSS, and JavaScript**. Th
 - Background image with blur effect
 - Responsive layout
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 - Responsive Web Design
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 Digital-Clock/
@@ -33,5 +38,8 @@ Digital-Clock/
 ├── index.html
 ├── style.css
 ├── script.js
-└── backgound_image.jpg
-└── images.png
+├── background_image.jpg
+├── images.png
+├── Screenshot.png
+└── README.md
+```
